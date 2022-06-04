@@ -7,12 +7,13 @@ su esquema
 
 Ejercicio:
 
-1. ¿Qué es un DataWarehouse?(valor 2)
+1. ¿Qué es un DataWarehouse?(valor 2) Donde se almacenan los datos
 
-2. Realiza un diseño del modelo en estrella (valor 2)
+2. Realiza un diseño del modelo en estrella (valor 2) 
+![image](https://user-images.githubusercontent.com/99296446/172029246-f68fbf65-e27e-466f-bb9d-3b578c0f3097.png)
 
 3. Realiza un diseño del modelo copo de nieve (valor 2)
-
+![image](https://user-images.githubusercontent.com/99296446/172029308-49805b48-0caf-4b13-b396-cdb5e749b48c.png)
 
 ## Práctica 7
 ### Funciones en SQL
