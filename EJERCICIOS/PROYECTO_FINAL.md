@@ -3,6 +3,8 @@
 
 ● Diseña el modelo entidad-relación del siguiente problema.
 
+![image](https://user-images.githubusercontent.com/99296446/173205901-788020c3-beb3-42fc-a7ed-c3825ac1d617.png)
+
 ● Crea el script para la base de datos.
 Proveedores
 
