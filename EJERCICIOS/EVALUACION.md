@@ -10,12 +10,23 @@ Preguntas:
 1. ¿Cuáles son las cinco funciones principales del administrador de bases de datos?
 (valor 1.5)
 
+Asegurar el buen funcionamiento de las BBDD, retención de información de BBDD, evitar perdida de datos,
+solucionar perdidas de datos y asegurar la seguridad de los datos
+
 2. Indíque cinco responsabilidades del sistema gestor de bases de datos (valor 1.5)
+
+Definición del esquema, definicion de la estructura, modificacion del esquema, dar autorizacion par acceder los datos y mantenimiento rutinario
 
 3. En una BD al usuario del sistema se le brindarán recursos para realizar diversas
 operaciones sobre estos archivos, tales como: (valor 1.5)
 
+UPDATE
+
+DELETE
+
 4. ¿Qué es un Sistema de Información? (valor 1.5)
+
+conjunto de componentes que interaccionan entre si con un solo fin
 
 ## Práctica 2.
 
