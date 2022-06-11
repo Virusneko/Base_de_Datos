@@ -5,7 +5,7 @@ Ejercicio:
 
 1. Menciona los comandos DMl: (valor .85)
 
-
+SELECT INSERT UPDATE Y DELETE
 
 2. Menciona 3 tipos de datos que existen: (valor .85)
 
